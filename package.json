@@ -12,20 +12,19 @@
 	],
 	"icon": "icon.png",
 	"extensionPack": [
-		"bradlc.vscode-tailwindcss",
-		"christian-kohler.npm-intellisense",
+		"pranaygp.vscode-css-peek",
 		"dbaeumer.vscode-eslint",
 		"dsznajder.es7-react-js-snippets",
-		"ecmel.vscode-html-css",
+		"xabikos.JavaScriptSnippets",
 		"esbenp.prettier-vscode",
 		"figma.figma-vscode-extension",
-		"kamikillerto.vscode-colorize",
-		"lior-chamla.google-fonts",
 		"ms-vscode.live-server",
-		"pranaygp.vscode-css-peek",
 		"ritwickdey.LiveServer",
 		"Thinker.font-awesome",
+		"lior-chamla.google-fonts",
+		"bradlc.vscode-tailwindcss",
 		"WallabyJs.quokka-vscode",
-		"xabikos.JavaScriptSnippets"
+		"kamikillerto.vscode-colorize",
+		"christian-kohler.npm-intellisense"
 	]
 }
