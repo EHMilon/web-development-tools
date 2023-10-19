@@ -1,0 +1,31 @@
+{
+	"name": "web-development-tools",
+	"displayName": "Web Development Tools",
+	"description": "",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.83.0"
+	},
+  "publisher": "EH,Milon",
+	"categories": [
+		"Extension Packs"
+	],
+	"icon": "icon.png",
+	"extensionPack": [
+		"bradlc.vscode-tailwindcss",
+		"christian-kohler.npm-intellisense",
+		"dbaeumer.vscode-eslint",
+		"dsznajder.es7-react-js-snippets",
+		"ecmel.vscode-html-css",
+		"esbenp.prettier-vscode",
+		"figma.figma-vscode-extension",
+		"kamikillerto.vscode-colorize",
+		"lior-chamla.google-fonts",
+		"ms-vscode.live-server",
+		"pranaygp.vscode-css-peek",
+		"ritwickdey.LiveServer",
+		"Thinker.font-awesome",
+		"WallabyJs.quokka-vscode",
+		"xabikos.JavaScriptSnippets"
+	]
+}
